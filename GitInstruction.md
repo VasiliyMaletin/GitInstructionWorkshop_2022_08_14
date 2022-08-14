@@ -71,12 +71,4 @@ __________________________
 
 ## Книги и полезные ссылки по изучению git.
 
-`https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository`
-
-`https://www.atlassian.com/ru/git/tutorials/saving-changes/git-stash`
-
-`https://www.atlassian.com/ru/git/tutorials/inspecting-a-repository`
-
-`https://www.atlassian.com/ru/git/tutorials/undoing-changes`
-
 ## Альтернативные системы контроля версий.
